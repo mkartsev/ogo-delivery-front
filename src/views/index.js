@@ -1,0 +1,6 @@
+export { default as HomePage }       from './HomePage.vue'
+export { default as LoginPage }      from './LoginPage.vue'
+export { default as DeliveriesPage } from './DeliveriesPage.vue'
+export { default as DeliveryPage }   from './DeliveryPage.vue'
+export { default as NotFound }       from './NotFound.vue'
+export { default as OrderPage }      from './OrderPage.vue'
